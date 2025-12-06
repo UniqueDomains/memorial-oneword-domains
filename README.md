@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.MEMORIAL one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.memorial        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.memorial        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.memorial      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.memorial  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.memorial      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.MEMORIAL one word dom
 | abatic.memorial     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.memorial    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.memorial   | available | 50       | 1%     | 8      |           |         |         |
-| abc.memorial        | available | 102      | 41%    | 3      |           |         |         |
+| abc.memorial        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.memorial  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.memorial  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.memorial | available | 56       | 1%     | 10     |           |         |         |
