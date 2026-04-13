@@ -66,20 +66,20 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | easy.memorial     | available | $64.98    | —             | 128            | 68     | 4      | namecheap        |
 | area.memorial     | resell    | —         | —             | 78             | 32     | 4      | GoDaddy.com, LLC |
-| free.memorial     | premium   | $250      | $250          | 88             | 59     | 4      | name.com         |
+| free.memorial     | premium   | $250      | $250          | 88             | 57     | 4      | name.com         |
 | data.memorial     | available | $64.98    | —             | 70             | 56     | 4      | namecheap        |
 | good.memorial     | premium   | $82.50    | $82.50        | 82             | 55     | 4      | name.com         |
 | zero.memorial     | available | $64.98    | —             | 112            | 53     | 4      | namecheap        |
 | business.memorial | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap        |
 | alpha.memorial    | available | $64.98    | —             | 90             | 53     | 5      | namecheap        |
 | art.memorial      | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap        |
-| fast.memorial     | available | $64.98    | —             | 82             | 53     | 4      | namecheap        |
-| one.memorial      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
 | true.memorial     | available | $64.98    | —             | 86             | 52     | 4      | namecheap        |
+| one.memorial      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
+| fast.memorial     | available | $64.98    | —             | 82             | 52     | 4      | namecheap        |
 | game.memorial     | premium   | $123.75   | $123.75       | 120            | 50     | 4      | name.com         |
-| air.memorial      | available | $64.98    | —             | 84             | 49     | 3      | namecheap        |
+| simple.memorial   | available | $64.98    | —             | 128            | 49     | 6      | namecheap        |
 | abc.memorial      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap        |
-| simple.memorial   | available | $64.98    | —             | 128            | 48     | 6      | namecheap        |
+| air.memorial      | available | $64.98    | —             | 84             | 49     | 3      | namecheap        |
 | real.memorial     | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap        |
 | all.memorial      | available | $64.98    | —             | 88             | 48     | 3      | namecheap        |
 | security.memorial | premium   | $85.80    | $85.80        | 70             | 49     | 8      | namecheap        |
