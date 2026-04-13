@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .memorial one-word domains from Un
 
 **Public extract:** 9,861 rows · **Live catalog:** 9,861 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/memorial`  
 **Best for:** founders, investors, studios
 
@@ -69,9 +69,9 @@ print(df.head())
 | free.memorial     | premium   | $250      | $250          | 88             | 59     | 4      | name.com         |
 | data.memorial     | available | $64.98    | —             | 70             | 56     | 4      | namecheap        |
 | good.memorial     | premium   | $82.50    | $82.50        | 82             | 55     | 4      | name.com         |
-| alpha.memorial    | available | $64.98    | —             | 90             | 54     | 5      | namecheap        |
-| business.memorial | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap        |
 | zero.memorial     | available | $64.98    | —             | 112            | 53     | 4      | namecheap        |
+| business.memorial | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap        |
+| alpha.memorial    | available | $64.98    | —             | 90             | 53     | 5      | namecheap        |
 | art.memorial      | premium   | $85.80    | $85.80        | 90             | 52     | 3      | namecheap        |
 | fast.memorial     | available | $64.98    | —             | 82             | 53     | 4      | namecheap        |
 | one.memorial      | premium   | $250      | $250          | 132            | 50     | 3      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
