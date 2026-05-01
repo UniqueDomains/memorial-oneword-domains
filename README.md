@@ -1,10 +1,10 @@
-# Available .MEMORIAL One-Word Domains (12,337)
+# Available .MEMORIAL One-Word Domains (12,838)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C337%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C838%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .memorial one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,337 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,838 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,337 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,838 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/memorial`  
 **Best for:** founders, investors, studios
 
@@ -66,19 +66,19 @@ print(df.head())
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | cars.memorial         | available | $64.98    | —             | 66             | 47     | 4      | namecheap |
 | jobs.memorial         | premium   | $250      | —             | 79             | 42     | 4      | name.com  |
-| skills.memorial       | available | $64.98    | —             | 58             | 47     | 6      | namecheap |
-| children.memorial     | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
 | shortcuts.memorial    | available | $64.98    | —             | 48             | 41     | 10     | namecheap |
-| citizens.memorial     | premium   | $82.50    | —             | 60             | 19     | 8      | name.com  |
+| children.memorial     | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
 | Tools.memorial        | available | $64.98    | —             | 56             | 40     | 5      | namecheap |
-| officers.memorial     | premium   | $82.50    | —             | 50             | 5      | 8      | name.com  |
+| citizens.memorial     | premium   | $82.50    | —             | 60             | 19     | 8      | name.com  |
 | justin.memorial       | available | $64.98    | —             | 58             | 38     | 7      | namecheap |
+| officers.memorial     | premium   | $82.50    | —             | 50             | 5      | 8      | name.com  |
 | WiFi.memorial         | available | $64.98    | —             | 83             | 37     | 5      | namecheap |
 | tokens.memorial       | available | $52.99    | $52.99        | 51             | 36     | 6      | namesilo  |
 | aliens.memorial       | available | $52.99    | $52.99        | 56             | 35     | 6      | namesilo  |
 | homes.memorial        | available | $64.98    | —             | 86             | 34     | 5      | namecheap |
 | teams.memorial        | available | $64.98    | —             | 62             | 32     | 5      | namecheap |
 | solutions.memorial    | available | $64.98    | —             | 56             | 31     | 9      | namecheap |
+| slots.memorial        | available | $52.99    | $52.99        | 49             | 31     | 5      | namesilo  |
 | spaces.memorial       | available | $64.98    | —             | 54             | 30     | 6      | namecheap |
 | quotes.memorial       | available | $64.98    | —             | 58             | 29     | 6      | namecheap |
 | blocks.memorial       | available | $64.98    | —             | 53             | 29     | 6      | namecheap |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,337 live domains                              |
+| 1,000-row public sample | 12,838 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
