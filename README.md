@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .memorial one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,838 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,838 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,838 domains · **Median ask:** $63.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/memorial`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cars.memorial         | available | $64.98    | —             | 66             | 47     | 4      | namecheap |
-| jobs.memorial         | premium   | $250      | —             | 79             | 42     | 4      | name.com  |
-| shortcuts.memorial    | available | $64.98    | —             | 48             | 41     | 10     | namecheap |
-| children.memorial     | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
-| Tools.memorial        | available | $64.98    | —             | 56             | 40     | 5      | namecheap |
-| citizens.memorial     | premium   | $82.50    | —             | 60             | 19     | 8      | name.com  |
-| justin.memorial       | available | $64.98    | —             | 58             | 38     | 7      | namecheap |
-| officers.memorial     | premium   | $82.50    | —             | 50             | 5      | 8      | name.com  |
-| WiFi.memorial         | available | $64.98    | —             | 83             | 37     | 5      | namecheap |
-| tokens.memorial       | available | $52.99    | $52.99        | 51             | 36     | 6      | namesilo  |
-| aliens.memorial       | available | $52.99    | $52.99        | 56             | 35     | 6      | namesilo  |
-| homes.memorial        | available | $64.98    | —             | 86             | 34     | 5      | namecheap |
-| teams.memorial        | available | $64.98    | —             | 62             | 32     | 5      | namecheap |
-| solutions.memorial    | available | $64.98    | —             | 56             | 31     | 9      | namecheap |
-| slots.memorial        | available | $52.99    | $52.99        | 49             | 31     | 5      | namesilo  |
-| spaces.memorial       | available | $64.98    | —             | 54             | 30     | 6      | namecheap |
-| quotes.memorial       | available | $64.98    | —             | 58             | 29     | 6      | namecheap |
-| blocks.memorial       | available | $64.98    | —             | 53             | 29     | 6      | namecheap |
-| Jim.memorial          | available | $64.98    | —             | 78             | 28     | 3      | namecheap |
-| commonground.memorial | available | $64.98    | —             | 74             | 28     | 13     | namecheap |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.memorial      | available | $64.98    | —             | 80             | 26     | 4      | namecheap |
+| WiFi.memorial      | available | $64.98    | —             | 83             | 37     | 5      | namecheap |
+| homes.memorial     | available | $64.98    | —             | 86             | 34     | 5      | namecheap |
+| jewels.memorial    | available | $64.98    | —             | 80             | 15     | 6      | namecheap |
+| geton.memorial     | available | $64.98    | —             | 82             | 10     | 6      | namecheap |
+| dogsit.memorial    | available | $64.98    | —             | 96             | 2      | 6      | namecheap |
+| edamame.memorial   | available | $52.99    | $52.99        | 80             | 9      | 7      | namesilo  |
+| QandA.memorial     | available | $64.98    | —             | 80             | 10     | 7      | namecheap |
+| toneup.memorial    | available | $64.98    | —             | 80             | 5      | 7      | namecheap |
+| dogsick.memorial   | available | $64.98    | —             | 90             | 1      | 7      | namecheap |
+| cars.memorial      | available | $64.98    | —             | 66             | 47     | 4      | namecheap |
+| jobs.memorial      | premium   | $250      | —             | 79             | 42     | 4      | name.com  |
+| shortcuts.memorial | available | $64.98    | —             | 48             | 41     | 10     | namecheap |
+| children.memorial  | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
+| Tools.memorial     | available | $64.98    | —             | 56             | 40     | 5      | namecheap |
+| citizens.memorial  | premium   | $82.50    | —             | 60             | 19     | 8      | name.com  |
+| justin.memorial    | available | $64.98    | —             | 58             | 38     | 7      | namecheap |
+| officers.memorial  | premium   | $82.50    | —             | 50             | 5      | 8      | name.com  |
+| tokens.memorial    | available | $52.99    | $52.99        | 51             | 36     | 6      | namesilo  |
+| aliens.memorial    | available | $52.99    | $52.99        | 56             | 35     | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,838 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,838 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .memorial domains. That makes the extension the main signal: each name will be read through a remembrance, tribute, or legacy lens. Broad words such as tips.memorial, homes.memorial, girls.memorial, and jewels.memorial can feel flexible, but they only work when the keyword still makes sense with memorial intent. When comparing these domains, start with semantic fit, then check whether the word is easy to explain, easy to remember, and unlikely to create confusion or trademark risk. The median ask is 63.66, which helps frame pricing expectations across this set.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- The set is 100% one-word .memorial domains
+- Median ask across this selection is 63.66
+- Best fits are tribute, legacy, and remembrance uses
+- Favor words that still read naturally with .memorial
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
