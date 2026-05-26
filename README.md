@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .memorial one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,838 domains · **Median ask:** $63.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/memorial`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | cars.memorial      | available | $64.98    | —             | 66             | 47     | 4      | namecheap |
 | jobs.memorial      | premium   | $250      | —             | 79             | 42     | 4      | name.com  |
 | shortcuts.memorial | available | $64.98    | —             | 48             | 41     | 10     | namecheap |
-| children.memorial  | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
+| children.memorial  | premium   | $82.50    | —             | 68             | 19     | 8      | name.com  |
 | Tools.memorial     | available | $64.98    | —             | 56             | 40     | 5      | namecheap |
 | citizens.memorial  | premium   | $82.50    | —             | 60             | 19     | 8      | name.com  |
 | justin.memorial    | available | $64.98    | —             | 58             | 38     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
