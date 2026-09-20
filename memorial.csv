@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4c174d76-8b96-4329-b44e-0cb36e762ace,attheready.memorial,available,52.99,52.99,high,low,12,namesilo,,,
 84cf421d-bb78-4e7f-8614-d93618d75a0c,absorbing.memorial,available,52.99,52.99,high,low,9,namesilo,,,
-6f11e92e-e9de-4e2d-9ed4-0b42af0a8d78,integrate.memorial,available,52.99,52.99,high,low,9,namesilo,,,
+6f11e92e-e9de-4e2d-9ed4-0b42af0a8d78,integrate.memorial,available,52.99,52.99,medium,low,9,namesilo,,,20/09/2026 03:11
 cc769a02-c7e8-4f3a-ab49-c1f33d3f02c8,confess.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 7e322303-af93-4a2c-93bb-db906ab158af,pipe.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 4e1214d1-8740-44f1-99b7-572ac434058b,actinal.memorial,available,54.98,64.98,low,low,7,namecheap,,,
@@ -31,9 +31,9 @@ f0619f27-deed-411c-9d32-c03f29945231,thus.memorial,available,64.98,,high,low,4,n
 bfb4bfda-6d05-42d6-9360-77003c6e1b2e,phantasmal.memorial,available,52.99,52.99,low,low,10,namesilo,,,06/08/2026 05:33
 e0d57fd2-6203-41a1-bcf6-b0e4591af845,roller.memorial,available,64.98,,high,low,6,namecheap,,,
 2188af10-fe77-499c-889f-d678970f7031,invincible.memorial,available,52.99,52.99,high,low,10,namesilo,,,
-f0e5691e-5af7-4e65-a9dd-fb0283730b53,WWWpage.memorial,available,52.99,52.99,high,low,8,namesilo,,,
+f0e5691e-5af7-4e65-a9dd-fb0283730b53,wwwpage.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 ccd449b1-ab2e-45f0-a225-c75ee205d687,realizable.memorial,available,52.99,52.99,high,low,10,namesilo,,,
-32ff542d-e328-42a5-8c2d-77b682db7357,McDonald.memorial,available,52.99,52.99,high,low,8,namesilo,,,
+32ff542d-e328-42a5-8c2d-77b682db7357,mcdonald.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 fb5a8500-c52e-4617-b4b7-e09ebfe83e93,anorectic.memorial,available,52.99,52.99,low,low,9,namesilo,,,
 e5c0ebc5-0e85-4b4e-8f22-effe71f0fcdc,getthis.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 74b531a1-87dc-4c56-8079-9f673e9a827f,torch.memorial,available,52.99,52.99,high,low,5,namesilo,,,
@@ -47,12 +47,11 @@ a716421c-104d-437c-84fb-35db040f4d8d,popcornmovie.memorial,available,52.99,52.99
 d4eaf64b-d653-4ffa-916c-8ecf8ca275c3,apothecial.memorial,available,52.99,52.99,low,low,10,namesilo,,,06/08/2026 04:20
 19005d66-0bf9-4038-b5ef-62a4f7c65ff2,spin.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 f9058a6e-6eaf-4e0e-b74e-a89b60ec6ec7,aciculate.memorial,available,52.99,52.99,low,low,9,namesilo,,,
-ecac364a-46df-4e8c-ae9d-cbe0897c1639,woo.memorial,available,,,medium,low,3,,,,
 baf77eb0-2fa3-4cbb-bed2-b8b24ecd83ed,lastminute.memorial,available,52.99,52.99,medium,low,11,namesilo,,,
 29c07906-c903-4104-92c7-40b256f5902a,adviseable.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 5137e46f-6b30-440b-acfb-c6a460b658ea,tomorrow.memorial,available,52.99,52.99,high,medium,8,namesilo,,,
 e4480e33-2094-4b1b-b781-9966ac675903,things.memorial,available,64.98,,high,low,6,namecheap,,,
-9e0b53c3-2424-4087-87da-cf534f27a560,Phil.memorial,available,52.99,52.99,high,medium,4,namesilo,,,
+9e0b53c3-2424-4087-87da-cf534f27a560,phil.memorial,available,52.99,52.99,high,medium,4,namesilo,,,
 94fb27a1-9cc4-4212-bd43-f9be4d934eba,appetitive.memorial,available,52.99,52.99,low,low,10,namesilo,,,06/08/2026 06:56
 6bcec0dd-d8bd-4891-9ebd-68b52eca5d38,abovethefold.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
 68ac2938-5438-4e6f-bb28-33037e8573f0,socialliberal.memorial,available,52.99,52.99,low,low,14,namesilo,,,
@@ -66,7 +65,7 @@ f1417fab-4e2e-4e1e-8808-15c4b87cc909,bothered.memorial,available,52.99,52.99,med
 4f675a21-b52f-4a3c-8adb-e600cb35b073,chiaseed.memorial,available,64.98,,high,low,9,namecheap,,,
 0708798d-e5a9-4ae8-9661-52da03fd67b1,quadruplet.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 09b2c6db-6c01-40e8-97a0-b7b704b83bf5,maketime.memorial,available,64.98,,high,low,9,namecheap,,,
-f0794ddf-845d-4723-a10b-dc813cdecef8,veggie.memorial,available,54.98,64.98,medium,low,6,namecheap,,,13/09/2026 19:20
+f0794ddf-845d-4723-a10b-dc813cdecef8,veggie.memorial,available,52.99,52.99,medium,low,6,namesilo,,,19/09/2026 06:34
 44eda0d8-0508-4f5e-b680-ec9995109d36,fillin.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 4a704bed-ae6f-49c3-9a71-260cd2b3f1cb,tiny.memorial,available,52.99,52.99,medium,medium,4,namesilo,,,
 3f7aaa24-99f8-4dba-8e0f-6ad768416347,snapping.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
@@ -74,7 +73,7 @@ f0794ddf-845d-4723-a10b-dc813cdecef8,veggie.memorial,available,54.98,64.98,mediu
 c8a26fb5-3da7-4bd7-8f8b-948b297e2dba,shy.memorial,premium,118.8,118.8,medium,low,3,namesilo,,,
 2edda552-f0f2-4378-9ea8-6c8c9c367e28,iii.memorial,available,52.99,52.99,low,low,3,namesilo,,,
 22efeb80-d6a1-4a9c-92e4-9721bf7502f6,natural.memorial,available,52.99,52.99,medium,low,7,namesilo,,,08/09/2026 12:12
-1ce00259-da7e-43ea-b165-86161abc4ff3,NewRochelle.memorial,available,64.98,,low,low,12,namecheap,,,
+1ce00259-da7e-43ea-b165-86161abc4ff3,newrochelle.memorial,available,64.98,,low,low,12,namecheap,,,
 7d028291-352b-458b-9c5d-dd92959bfa2f,brought.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
 74d9564a-bdb5-4ffe-bcd3-8de78249fa2b,bendystraw.memorial,available,52.99,52.99,high,low,11,namesilo,,,
 33e4c618-7841-4d63-93ea-d1d2a60b438f,antiblack.memorial,available,52.99,52.99,low,low,9,namesilo,,,
@@ -89,7 +88,7 @@ eeec9760-ef9e-42e1-bc1e-db6fdfe11a11,twelve.memorial,available,52.99,52.99,high,
 12451b6f-035d-487f-b38c-e23a0975df34,day.memorial,premium,118.8,118.8,high,low,3,namesilo,,,
 b5165713-5755-44b1-a03a-61c41466ba5e,branded.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 97cf83b3-5218-44e2-8c7f-2b1b1f753fb3,havesex.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-ed4e88b5-574f-484c-9f08-a33fba6a9a9e,physically.memorial,available,52.99,52.99,low,low,10,namesilo,,,12/09/2026 03:48
+ed4e88b5-574f-484c-9f08-a33fba6a9a9e,physically.memorial,available,52.99,52.99,low,low,10,namesilo,,,19/09/2026 14:53
 1c5723dc-a310-4b49-b17a-79ebe5dd2ae9,xxii.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
 bfebcd8f-d965-410e-be79-7dcd4009a83b,mode.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 4cb87381-6691-4021-9f41-6507baf0c827,pasta.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
@@ -117,7 +116,7 @@ de53eb78-ecf0-4959-a1ab-a1edab8cb287,babies.memorial,premium,78.54,78.54,medium,
 83f1a71e-98fc-4fbb-9a17-5e2991faa0e2,parkingspot.memorial,available,52.99,52.99,high,low,12,namesilo,,,
 01352d11-e1e4-4fb9-8f77-d7c5e7271f96,breakfast.memorial,available,52.99,52.99,medium,low,9,namesilo,,,04/09/2026 13:27
 808fe36f-3e63-4195-a143-7434bb13728b,accurately.memorial,available,52.99,52.99,high,low,10,namesilo,,,
-7bc75141-8d9a-432c-b37f-4e294b12faf1,YouTube.memorial,available,,,high,medium,7,,,,
+7bc75141-8d9a-432c-b37f-4e294b12faf1,youtube.memorial,available,,,high,medium,7,,,,
 052966fb-4425-4780-85bc-0d7cb6316842,nitid.memorial,available,52.99,52.99,low,low,5,namesilo,,,
 b8450de6-3fcd-4203-8d78-b7c66376fdf2,unjustified.memorial,available,52.99,52.99,medium,low,11,namesilo,,,
 d46850e3-7cd5-4db4-bb42-26b04d50eda3,boston.memorial,premium,78.54,78.54,high,low,6,namesilo,,,
@@ -150,7 +149,7 @@ fb880b1c-ffc8-4813-9a7a-37e7792ff6fe,expended.memorial,available,52.99,52.99,med
 1637bbde-c1a6-4bca-b2df-b7e6628c41cb,award.memorial,available,52.99,52.99,high,low,5,namesilo,,,
 a1c6cec7-5def-4286-b66d-9104c0eefab4,watt.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
 11be78d2-6bf7-4ca8-a51c-16742f1afc8b,demo.memorial,available,52.99,52.99,high,medium,4,namesilo,,,
-87c28145-e743-4f53-9ff2-73563c5eca0d,Ihearyousay.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
+87c28145-e743-4f53-9ff2-73563c5eca0d,ihearyousay.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
 c12a6558-b8be-4db3-88f2-43f1cd77ef08,occupy.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 5e971b0e-65c8-4405-b337-00c2946bc791,lay.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
 90e79d72-0c8c-428c-a66f-fccb72ad7cbc,passive.memorial,available,52.99,52.99,high,low,7,namesilo,,,
@@ -182,7 +181,7 @@ ad570be0-aacb-4347-a670-dcc3571a2020,justintime.memorial,available,52.99,52.99,m
 2da8be10-8881-4b7a-9dad-f877522f2a49,winning.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 cedbe8de-56bf-4691-bcdf-a1e0f7b211e3,airpressure.memorial,available,64.98,,medium,low,12,namecheap,,,
 8eaa57b8-a169-4e71-bbf5-1361d03f30a5,myspace.memorial,available,,,high,low,7,,,,
-0c6329d4-5fcf-49d3-9c21-e64f74f6a39a,UnitedKingdom.memorial,available,,,low,low,14,,,,
+0c6329d4-5fcf-49d3-9c21-e64f74f6a39a,unitedkingdom.memorial,available,,,low,low,14,,,,
 e77927b2-bd98-455d-a020-17ac210f291c,adjective.memorial,available,52.99,52.99,low,low,9,namesilo,,,
 80b7f3c1-20ab-4e68-b975-dbaaa982c432,publicized.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 8b41bfc4-bab3-4b9a-9be8-97772bdc4321,worthwhile.memorial,available,52.99,52.99,high,low,10,namesilo,,,
@@ -203,7 +202,7 @@ fc085dde-4bd6-4e03-bb10-c02c06039774,attachment.memorial,available,52.99,52.99,h
 511b590e-4ede-47fc-92ff-f30b1db8aab5,ducttape.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
 f805dc2f-ad98-4eec-a6d0-f7132fce48b5,google.memorial,available,,,high,medium,6,,,,
 3133f10d-c8d8-43e8-bbc9-3fef9ab4a527,uncontrollable.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
-fe1c81af-76c4-480b-a76e-56b0f69dc84d,GreenPark.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
+fe1c81af-76c4-480b-a76e-56b0f69dc84d,greenpark.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 73247fef-499c-40cc-9d89-350a1eb0199b,setsail.memorial,available,64.98,,medium,low,8,namecheap,,,
 01c96463-8a4d-485d-b9c0-aabdcc7db583,thrift.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 3cc294e1-c8c8-4ac4-b6b6-b4c08dd6891a,gramme.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
@@ -260,14 +259,14 @@ a2d2cf36-16a4-40d4-a288-1a0c7f45f7a0,wonky.memorial,available,52.99,52.99,low,lo
 eef9bd53-c313-4c57-88d8-70d49c979a81,default.memorial,available,64.98,,high,low,7,namecheap,,,
 80ea3395-c205-40a8-82b5-b1578772e97a,lying.memorial,available,52.99,52.99,high,low,5,namesilo,,,
 04a2dccc-e5e0-4668-8d4a-048901fe22cf,enticing.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-52beb7bb-62f5-4820-9028-02be0f5a4dbe,RGB.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
+52beb7bb-62f5-4820-9028-02be0f5a4dbe,rgb.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
 23dda15f-a327-4924-896c-6ddd55395ffc,spaceshuttle.memorial,available,52.99,52.99,high,low,13,namesilo,,,
 a5ae4f33-3302-4656-81c3-a64f9ad1997f,transparent.memorial,available,64.98,,high,low,11,namecheap,,,
-9e85a0f3-46b3-4fb7-a513-2a2a44c23d0e,exercise.memorial,available,52.99,52.99,medium,low,8,namesilo,,,14/09/2026 10:49
+9e85a0f3-46b3-4fb7-a513-2a2a44c23d0e,exercise.memorial,available,52.99,52.99,medium,low,8,namesilo,,,19/09/2026 09:45
 a2a1d1df-a8b2-43d8-8cdb-dadc320f4fd7,flaring.memorial,available,52.99,52.99,low,low,7,namesilo,,,
 19432329-e2ea-46d8-a7b4-3a960d222726,valid.memorial,available,52.99,52.99,high,low,5,namesilo,,,
 eced0dfa-30ac-4b17-b53d-ab77107c3d1f,associable.memorial,available,52.99,52.99,low,low,10,namesilo,,,07/08/2026 06:45
-6ea5c91a-ddd4-44b8-9a55-aa3dfcd70536,tech.memorial,premium,82.5,,high,medium,4,name.com,,,
+6ea5c91a-ddd4-44b8-9a55-aa3dfcd70536,tech.memorial,premium,78.54,78.54,medium,low,4,namesilo,,,19/09/2026 02:49
 1dba447a-e35a-4619-8dc5-36454e8410f5,baggage.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 a9fc946a-d33d-4d50-8a5a-8d2d110cd507,barbecue.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 5f38e23d-3ad7-4992-9bd7-2df107bc1f5b,timer.memorial,available,64.98,,high,low,5,namecheap,,,
@@ -278,10 +277,10 @@ cab4ae2d-d136-4bd6-a19b-132e50f12e07,lick.memorial,available,52.99,52.99,medium,
 719c1e68-fe56-46e1-826a-8381fe34959a,detailing.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
 08607ad3-907f-436a-9891-0a00cdc30c92,woops.memorial,available,52.99,52.99,high,low,5,namesilo,,,
 b365fb0a-fb8b-4163-8258-26fb5533d528,pimply.memorial,available,52.99,52.99,low,low,6,namesilo,,,
-15545a98-2507-41a7-abfa-1f930bc8113c,StHelena.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
+15545a98-2507-41a7-abfa-1f930bc8113c,sthelena.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 5f2490aa-4d58-4221-bc80-bc771bf43579,attheoutside.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
 6bf7b754-b68e-4658-b698-cba9226c9832,pre.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
-126fddda-42a2-4dc7-8eed-4ff7746ec4a1,player.memorial,available,52.99,52.99,medium,low,6,namesilo,,,15/09/2026 00:56
+126fddda-42a2-4dc7-8eed-4ff7746ec4a1,player.memorial,available,52.99,52.99,low,low,6,namesilo,,,19/09/2026 09:54
 d6aec298-1d12-4985-8988-d20092f414c4,scientificname.memorial,available,52.99,52.99,medium,low,15,namesilo,,,
 6e9f5f5a-6e2d-4dcf-8517-2fc96fab0073,sexual.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 6fc9f5b7-0142-43f4-92de-2f0abbfe0b08,tragic.memorial,available,52.99,52.99,high,low,6,namesilo,,,
@@ -292,7 +291,7 @@ c44b4320-908f-4ced-a07e-3ca6d20d6593,atop.memorial,available,52.99,52.99,medium,
 87737307-8a1f-4d73-a77d-1633d6c34ccb,centre.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 88845984-0fb2-4dd7-9f3e-c264348ec43a,find.memorial,available,64.98,,high,medium,4,namecheap,,,
 c5f88cc3-955a-403f-9e43-d1875d00236f,antenatal.memorial,available,64.98,,high,low,9,namecheap,,,
-a21984b8-32b0-4283-b7c0-c4dd218e549c,licensed.memorial,available,52.99,52.99,medium,low,8,namesilo,,,14/09/2026 03:12
+a21984b8-32b0-4283-b7c0-c4dd218e549c,licensed.memorial,available,52.99,52.99,low,low,8,namesilo,,,19/09/2026 16:56
 fe02854b-a448-4eb1-8821-ba8eb6b9dd38,theboys.memorial,available,64.98,,medium,low,8,namecheap,,,
 8052ec9e-0b61-4cc1-8763-180daaa60656,airborne.memorial,available,54.98,64.98,low,low,8,namecheap,,,
 aef98ac2-fc03-4e99-a8cb-43d0cbdaba5b,comeinto.memorial,available,52.99,52.99,high,low,9,namesilo,,,
@@ -305,14 +304,14 @@ aa41b24a-64ed-4e51-a500-6e92c29e6825,nightlong.memorial,available,52.99,52.99,lo
 9395a0a9-e242-48f5-8aad-244fb469996f,multiplayer.memorial,available,52.99,52.99,medium,low,11,namesilo,,,
 4138e882-7edb-418e-ae97-285f61a17d18,affirm.memorial,available,,,high,low,6,,,,
 2230134c-1575-4509-bf6b-7fe1443952bd,positive.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-f6ba91b5-3f47-4d94-9fa5-f97b7348c851,Iknow.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
+f6ba91b5-3f47-4d94-9fa5-f97b7348c851,iknow.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 1c0e89bd-628a-4906-82b5-29d913e2cd73,mouthcare.memorial,available,64.98,,low,low,9,namecheap,,,
 fd895687-1143-4651-8ead-04bf8e640d6c,howmuch.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 6c564d2d-d122-4293-b4d9-275f438a16d1,reasonably.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 9e7809d3-ac34-4121-9856-fd140de0c062,owe.memorial,premium,118.8,118.8,high,low,3,namesilo,,,
 e91d2a37-9982-4afc-9d60-4698c199411c,inside.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 0ddde6a9-9db5-4cd5-bfee-34166e5f283e,clarity.memorial,available,52.99,52.99,high,medium,7,namesilo,,,
-7fc38e91-0d8f-4ee5-a2a4-824a67a92eb1,Harold.memorial,available,52.99,52.99,high,low,6,namesilo,,,
+7fc38e91-0d8f-4ee5-a2a4-824a67a92eb1,harold.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 379dd3c2-2e67-4467-a658-cf4a7de48da1,axiomatic.memorial,available,52.99,52.99,low,low,9,namesilo,,,05/08/2026 23:27
 57067bae-e223-48a9-988a-1ccb62a9057a,message.memorial,available,52.99,52.99,medium,low,7,namesilo,,,08/09/2026 08:47
 c6e430fc-e0b5-4506-9378-4946975e0956,notime.memorial,available,64.98,,low,low,7,namecheap,,,
@@ -328,7 +327,7 @@ d8640455-bac1-4370-b6d2-31c169343548,yellow.memorial,available,52.99,52.99,high,
 84b01adc-fc97-44ed-8076-98c4e5b5dc49,mon.memorial,available,64.98,,high,low,3,namecheap,,,
 531d244e-8119-4470-aa8c-78f2c3103d2e,grinning.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 97fbce0c-4cf2-4709-91ac-6f1c24cdf731,cairo.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
-f6548b48-67fd-4ceb-93e7-c67c47542f83,nutritious.memorial,available,54.98,64.98,medium,low,10,namecheap,,,12/09/2026 19:02
+f6548b48-67fd-4ceb-93e7-c67c47542f83,nutritious.memorial,available,64.99,65.99,medium,low,10,name.com,,,19/09/2026 11:02
 34a0b1df-d174-4614-98b6-f490ba0f9441,roughly.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
 943cb0d6-9ea6-46e6-9f99-57ec4bb0a9f5,bedimmed.memorial,available,52.99,52.99,low,low,8,namesilo,,,09/08/2026 07:18
 cd758433-6271-4527-95e3-00c52ff07b49,putoutof.memorial,available,52.99,52.99,low,low,10,namesilo,,,
@@ -366,7 +365,7 @@ c1053886-65e9-42ac-84ea-77758e6881f9,any.memorial,available,64.98,,high,medium,3
 7cefddde-bfdc-466a-936e-ffa698358d2e,grandprix.memorial,available,,,high,low,10,,,,
 c90887a4-9e0c-4812-b275-d51cb3e902e9,poundcake.memorial,available,64.98,,medium,low,10,namecheap,,,
 ee617d52-5360-41c4-9a66-ce862ad6da9a,decade.memorial,available,52.99,52.99,high,low,6,namesilo,,,
-605c91e1-c03a-46d3-aded-fbdbea85a412,business.memorial,premium,128.7,128.7,high,medium,8,namecheap,,,
+605c91e1-c03a-46d3-aded-fbdbea85a412,business.memorial,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 02:33
 6ba8ea9c-27be-4e8a-9c14-550ab86dc3ed,ample.memorial,available,52.99,52.99,low,low,5,namesilo,,,
 29e923f6-e973-4b13-8bf7-f8eb36ebc8d9,namely.memorial,available,64.98,,medium,low,6,namecheap,,,
 9c9ab34a-c979-457b-95f2-6db6d567ff7b,aery.memorial,available,52.99,52.99,low,low,4,namesilo,,,
@@ -388,12 +387,12 @@ caeb3069-1ea8-4b6a-b10c-02bccecb59d7,painted.memorial,available,52.99,52.99,medi
 0b4a8e4d-b096-442c-a799-01f92d3fe8a7,idle.memorial,available,52.99,52.99,low,low,4,namesilo,,,08/08/2026 21:52
 3377c84e-f056-4287-9cce-296980d61cc9,weak.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
 81ae8c11-68fa-479a-a2f8-7f7924b4998c,shear.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
-b58544e5-1910-47ad-908d-98b67373c21a,Fla.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
+b58544e5-1910-47ad-908d-98b67373c21a,fla.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
 5df8dae1-2ce2-4c3f-893e-0e5827246239,covetous.memorial,available,52.99,52.99,low,low,8,namesilo,,,07/08/2026 21:53
-cb10a982-8d9a-402f-ac3e-129f72985482,panel.memorial,available,52.99,52.99,medium,low,5,namesilo,,,14/09/2026 02:59
+cb10a982-8d9a-402f-ac3e-129f72985482,panel.memorial,available,52.99,52.99,low,low,5,namesilo,,,19/09/2026 11:40
 948ff67b-2ee8-46bd-ad39-1a9e8e99c120,permutation.memorial,available,64.98,,low,low,11,namecheap,,,
 86f3a31a-e34d-4178-b3b9-209d29895f36,panoptic.memorial,available,54.98,64.98,low,low,8,namecheap,,,
-a04c446d-c0a3-4f83-8761-19434178da2a,HIPAA.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
+a04c446d-c0a3-4f83-8761-19434178da2a,hipaa.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 7040323a-32a5-49ba-a3b5-86d92aeefedd,comerainorshine.memorial,available,52.99,52.99,medium,low,18,namesilo,,,
 6dbeb733-648a-46e0-bc0b-a9ce035673a4,employ.memorial,available,52.99,52.99,medium,low,6,namesilo,,,08/09/2026 13:39
 a6201548-acf4-47db-8d48-dcdae6a4f973,wharf.memorial,available,52.99,52.99,high,low,5,namesilo,,,
@@ -414,7 +413,7 @@ ad106da9-2fc5-4583-af1e-8b243a3f4766,senescent.memorial,available,52.99,52.99,lo
 a9f06917-2e0f-4af6-bcf7-6207d4c2800b,entirely.memorial,available,52.99,52.99,low,low,8,namesilo,,,
 7acfc1d0-febb-4d9e-9d3c-8b89e34936d6,glittering.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 b1d3bf81-a01a-4401-883c-9b829e94f792,treasurydepartment.memorial,available,64.98,,medium,low,19,namecheap,,,
-9e3bc205-fbf1-4a04-87b2-dc13e73f70e5,virtual.memorial,premium,78.54,78.54,medium,low,7,namesilo,,,14/09/2026 02:23
+9e3bc205-fbf1-4a04-87b2-dc13e73f70e5,virtual.memorial,premium,78.54,78.54,medium,low,7,namesilo,,,19/09/2026 09:02
 5dc35f19-5cc2-4a37-8c52-ff1b94993b09,heroic.memorial,available,64.98,,high,low,6,namecheap,,,
 66818fd9-f945-4f75-b08f-317c99609ff0,standback.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 d1644aca-9d6d-408c-a91f-fd74b3e31381,mostly.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
@@ -428,7 +427,7 @@ dc4d6188-37e0-43c5-a786-1c16ed98b3a1,goin.memorial,available,54.98,64.98,low,low
 e119b1b0-bbb3-4974-b96e-78426bdd2b5a,paperback.memorial,available,52.99,52.99,high,low,9,namesilo,,,
 743d4f80-8a34-479d-9727-fb594a18fda3,prevent.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 4634b8ae-3f1e-4aaf-9c63-48fda1dbbf7b,lady.memorial,available,64.98,,high,low,4,namecheap,,,
-bc372e71-d1ed-4ca1-8bf9-094f92b278cb,Onions.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
+bc372e71-d1ed-4ca1-8bf9-094f92b278cb,onions.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 8d4f6be3-7b3b-436f-bfed-04317eb53ac5,vexatious.memorial,available,52.99,52.99,low,low,9,namesilo,,,
 636bd321-1991-4843-b07f-e82920c96749,little.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 161a92cb-b1ec-406d-a390-4653a9d3e7a3,gutfeeling.memorial,available,52.99,52.99,high,low,11,namesilo,,,
@@ -449,7 +448,7 @@ ee09249b-524a-4b6d-846c-304893514125,buns.memorial,available,52.99,52.99,low,low
 f2be7fdb-91ff-4aa2-8672-87d4cb0c90bc,goodgame.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
 bb8fab84-f716-4dc7-ae5c-d25193d32a7b,burgerbun.memorial,available,64.98,,high,low,10,namecheap,,,
 d67f15fc-5137-4bad-8513-90916be955b6,teeshirt.memorial,available,64.98,,high,low,9,namecheap,,,
-edb69e93-5ab4-491e-aafb-56ea76c4580f,CostaRica.memorial,available,,,high,low,10,,,,
+edb69e93-5ab4-491e-aafb-56ea76c4580f,costarica.memorial,available,,,high,low,10,,,,
 69f02c3a-594c-4da6-880c-61237630747a,whatiswhat.memorial,available,52.99,52.99,low,low,12,namesilo,,,
 5146c3f8-eed1-43bd-bfda-61c7cf34dd12,recognisable.memorial,available,52.99,52.99,high,low,12,namesilo,,,
 eff3d129-c01c-4f2f-a117-7be4fe614a11,upcoming.memorial,available,52.99,52.99,low,low,8,namesilo,,,06/08/2026 08:39
@@ -527,11 +526,10 @@ af47935b-e4bf-4e9f-8d01-65998ba6b059,gaslighting.memorial,available,52.99,52.99,
 fc08e74b-6a5f-43c4-84df-d41b681abb55,atrophic.memorial,available,52.99,52.99,low,low,8,namesilo,,,07/08/2026 14:52
 042d03b4-92de-4890-8bfa-82d9abacebcc,aim.memorial,available,52.99,52.99,high,low,3,namesilo,,,
 ba4b2100-ef5e-415f-86e2-32478f194ca5,awaken.memorial,available,52.99,52.99,high,low,6,namesilo,,,
-25acdd84-8018-4d02-b0a2-0e72ccebd8c2,WestHam.memorial,available,52.99,52.99,low,low,8,namesilo,,,
-16cf2dcc-7521-4fc5-b22e-2822aa6342e4,Rhoda.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
+25acdd84-8018-4d02-b0a2-0e72ccebd8c2,westham.memorial,available,52.99,52.99,low,low,8,namesilo,,,
+16cf2dcc-7521-4fc5-b22e-2822aa6342e4,rhoda.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 ee124a3e-24dc-4699-960f-23b8de09a3c2,squinty.memorial,available,52.99,52.99,low,low,7,namesilo,,,07/08/2026 03:20
 6dcdc06e-8c4f-42af-9997-7158a24b4388,airtoair.memorial,available,54.98,64.98,low,low,10,namecheap,,,
-c06b4e71-eb99-4df3-b6e3-0410bf8bb657,surface.memorial,available,,,medium,low,7,,,,
 a8a9e826-3295-4880-847a-cc9b180873f7,slowness.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 8f0bf670-9896-4bfe-b6e8-4f451233735a,barred.memorial,available,52.99,52.99,low,low,6,namesilo,,,08/08/2026 20:37
 9ea5c9a4-65c2-4127-8017-823256e0683d,anecdotic.memorial,available,52.99,52.99,low,low,9,namesilo,,,
@@ -540,9 +538,9 @@ a8a9e826-3295-4880-847a-cc9b180873f7,slowness.memorial,available,52.99,52.99,med
 72a0733d-214b-4298-99fa-a90dad77a005,luck.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 1b27f9ae-acbb-4ee0-8c55-02d19ed495d1,hereditary.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 3c750dfc-be61-4643-8b9c-d3b858bd6257,contrary.memorial,available,52.99,52.99,high,low,8,namesilo,,,
-40650dbe-423a-41f7-a921-9c4510f2dfec,WestHill.memorial,available,52.99,52.99,low,low,9,namesilo,,,
+40650dbe-423a-41f7-a921-9c4510f2dfec,westhill.memorial,available,52.99,52.99,low,low,9,namesilo,,,
 f8ba2cb3-7853-4722-87fa-dea025d9b02b,messy.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
-35d2e365-627f-4b55-9777-e28d708b267b,SierraLeone.memorial,available,,,low,low,12,,,,
+35d2e365-627f-4b55-9777-e28d708b267b,sierraleone.memorial,available,,,low,low,12,,,,
 d3b5f91e-5901-4091-b133-f5416e2c9d4e,woody.memorial,available,52.99,52.99,low,low,5,namesilo,,,06/08/2026 13:08
 551ce639-ee90-4675-8fd9-92e32d123ba5,lp.memorial,available,52.99,52.99,medium,low,3,namesilo,,,
 c67bab56-5355-451e-86a4-f4d4e22412e2,balzacian.memorial,available,52.99,52.99,low,low,9,namesilo,,,08/08/2026 10:50
@@ -550,7 +548,7 @@ c67bab56-5355-451e-86a4-f4d4e22412e2,balzacian.memorial,available,52.99,52.99,lo
 f938e2f7-7e98-476a-a151-85da29b9c77d,rushed.memorial,available,64.98,,medium,low,6,namecheap,,,
 18971225-2bdf-4984-9bf0-d1012bd1c23c,bahamian.memorial,available,52.99,52.99,low,low,8,namesilo,,,08/08/2026 08:31
 1fcac632-b12b-417a-9136-079366000284,rockhard.memorial,available,52.99,52.99,low,low,9,namesilo,,,
-dbd49cca-2e8f-4707-a814-2eb44b930840,fund.memorial,premium,118.8,118.8,high,low,4,namesilo,,,
+dbd49cca-2e8f-4707-a814-2eb44b930840,fund.memorial,premium,118.8,118.8,medium,low,4,namesilo,,,19/09/2026 13:44
 8e800318-cb9d-4537-affb-b6b385403f16,rushing.memorial,available,64.98,,medium,low,7,namecheap,,,
 ee15d403-0cac-44f7-a991-3d38c7627458,somebudy.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 485b0d16-b3c2-449c-97ad-d1932b7328f9,simplicity.memorial,available,52.99,52.99,high,low,10,namesilo,,,
@@ -571,7 +569,7 @@ e6886f54-e3eb-48e5-970b-9290b3a38efd,inspiring.memorial,available,52.99,52.99,hi
 4838e582-48d6-43d1-8c40-390bdebc4f81,excelat.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 1e045d6e-e14f-4dc3-bf99-9b74c6cd1289,disorganised.memorial,available,52.99,52.99,medium,low,12,namesilo,,,
 01118c3d-4410-482d-a0d8-0811ddc9277b,naturestudent.memorial,available,52.99,52.99,low,low,14,namesilo,,,
-dd65a870-6e8c-48a4-91ca-0f8366329ab3,RedNoseDay.memorial,available,52.99,52.99,low,low,12,namesilo,,,
+dd65a870-6e8c-48a4-91ca-0f8366329ab3,rednoseday.memorial,available,52.99,52.99,low,low,12,namesilo,,,
 822381bb-ae48-495a-bbad-3eedbbf43f6f,closely.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
 029e8b5d-0ead-4e41-aea8-6b5b962c1b9e,enterthechat.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
 8ee91fb7-a5e1-4fa6-b393-60eaae99abf4,hightide.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
@@ -587,7 +585,7 @@ f779ed7b-0b63-4aab-9481-1cba06ffd968,livid.memorial,available,52.99,52.99,low,lo
 0ee59ad7-e2a0-4849-9dcd-32b58e62c991,delightful.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 6de7147a-f796-409d-9cd2-1d37f5a08cb8,zooming.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 171bb20e-7455-4e4c-984a-68b92b3601f1,anatomical.memorial,available,52.99,52.99,low,low,10,namesilo,,,
-4fe390e2-3ec6-4385-b8da-a01aa3ef6926,white.memorial,premium,118.8,118.8,medium,medium,5,namesilo,,,08/09/2026 05:57
+4fe390e2-3ec6-4385-b8da-a01aa3ef6926,white.memorial,premium,118.8,118.8,medium,low,5,namesilo,,,19/09/2026 14:26
 4e52206a-1a89-46c5-927d-fc2c2e8cf1d1,hawkeyed.memorial,available,52.99,52.99,low,low,9,namesilo,,,06/08/2026 18:43
 5fc5a2df-30c5-41a4-b1ce-96cd5bfc575c,earn.memorial,available,64.98,,medium,low,4,namecheap,,,
 e425e603-8c69-48c1-a3bd-8ae64bf96386,aneyeforaneye.memorial,available,52.99,52.99,medium,low,17,namesilo,,,
@@ -596,7 +594,7 @@ a6866472-8cb1-4db3-a4b6-dd256ba6d074,nebula.memorial,available,52.99,52.99,high,
 3fe982a0-fff9-469c-9f48-a8c8eb548ad9,road.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 19ace5d7-dcec-42af-a9d2-ef96ebcfaa56,alternate.memorial,available,52.99,52.99,high,low,9,namesilo,,,
 1f37c930-60b6-4060-9b91-31fbe2dc976e,walloping.memorial,available,52.99,52.99,low,low,9,namesilo,,,08/08/2026 13:19
-b8f795eb-bc23-4fda-a58b-bd172373f0c1,HillCity.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
+b8f795eb-bc23-4fda-a58b-bd172373f0c1,hillcity.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
 6f29b512-1ffd-47fd-a880-14ef1b34b7d1,papa.memorial,available,52.99,52.99,high,low,4,namesilo,,,
 a841d75f-0224-43af-979f-b07928bb77ba,walkietalkie.memorial,available,52.99,52.99,high,low,13,namesilo,,,
 c8090eda-3804-4d4f-b6c1-423ec537d350,adhoc.memorial,available,52.99,52.99,low,low,6,namesilo,,,
@@ -623,7 +621,7 @@ ed60387e-8b7d-4882-a07f-f3cc86a89e4d,shaky.memorial,available,64.98,,medium,low,
 5a4a48e6-b367-42b4-bdb7-01d03e2c8de1,discourse.memorial,available,52.99,52.99,high,low,9,namesilo,,,
 877fff1a-a0ec-4050-b797-ef8da7a9d128,continued.memorial,available,52.99,52.99,high,low,9,namesilo,,,
 ec11f3ed-c402-43b1-89d7-f474c5b133de,staring.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
-3bbc5c70-7e2a-4643-a141-4144f1cba22c,Martha.memorial,available,52.99,52.99,high,low,6,namesilo,,,
+3bbc5c70-7e2a-4643-a141-4144f1cba22c,martha.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 031bfb05-c3a6-45bc-ba50-12fce4405c69,allometric.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 7b78c814-f05a-4010-b7fe-d5bacc648ec6,distress.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 09e2ffdc-1bfd-426f-ac7f-2b4aa9d26588,palestine.memorial,available,,,medium,low,9,,,,
@@ -654,10 +652,10 @@ c30408d7-b6a8-4290-89a2-00834cdd0042,inundated.memorial,available,52.99,52.99,lo
 d32dd5bb-4df8-48e6-90c9-7e534e1d4d96,separateschool.memorial,available,64.98,,high,low,15,namecheap,,,
 2c0887bb-c2d0-49b9-8fb4-4d445036fca5,atavistic.memorial,available,52.99,52.99,low,low,9,namesilo,,,07/08/2026 12:55
 83fed27f-0340-4497-b441-136d8892cb95,righteous.memorial,available,64.98,,high,low,9,namecheap,,,
-1ab9f4d8-a03d-42e7-8a31-b73edc99b0bb,Englishmedium.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
+1ab9f4d8-a03d-42e7-8a31-b73edc99b0bb,englishmedium.memorial,available,52.99,52.99,medium,low,14,namesilo,,,
 ccaa6248-1883-49b5-9c7a-082603a5ec33,aurorean.memorial,available,52.99,52.99,low,low,8,namesilo,,,07/08/2026 18:12
 d92c5402-d268-44c1-8820-b3f767800bc9,dime.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
-5567d583-c1d0-44f7-a407-d520573832e2,Panes.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
+5567d583-c1d0-44f7-a407-d520573832e2,panes.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 509a56fb-3cdf-48ef-8095-43554c330723,carryoff.memorial,available,64.98,,medium,low,9,namecheap,,,
 ea40d085-2ac3-42e9-95ed-beb0caf02652,quaternity.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 7941337b-6e3a-4f7b-a6d9-3ba416babe39,outcome.memorial,available,52.99,52.99,high,low,7,namesilo,,,
@@ -665,7 +663,7 @@ dd39465f-8e03-444d-a098-a30b24623bf5,thisevening.memorial,available,52.99,52.99,
 e5ab37a3-0276-4d9b-9f73-6ca8995b96c7,miffed.memorial,available,,,medium,low,6,,,,
 861fc38f-cda8-4df0-a511-2811139ee77f,conclusive.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 360c5575-fd8c-4bda-bcc7-a66431b6fb52,thirtyone.memorial,available,52.99,52.99,low,low,10,namesilo,,,
-ad0ff860-0fa2-40aa-8517-29f5c07d04ba,tonic.memorial,available,52.99,52.99,medium,low,5,namesilo,,,13/09/2026 02:52
+ad0ff860-0fa2-40aa-8517-29f5c07d04ba,tonic.memorial,available,52.99,52.99,medium,low,5,namesilo,,,19/09/2026 16:01
 1acfe863-e543-42d7-bac8-bf31cd2243a3,cross.memorial,available,52.99,52.99,high,low,5,namesilo,,,
 1fec3cef-f589-4d81-9634-c08939a75fd8,fuckster.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 2d928b5b-326f-47b5-bee6-1138e8b83b66,groves.memorial,available,64.98,,medium,low,6,namecheap,,,
@@ -707,7 +705,7 @@ da22c924-6ecc-4399-b360-099865e1e134,bluegreen.memorial,available,52.99,52.99,hi
 4df87fda-4e4c-416f-8f46-0663b10a4e51,fundament.memorial,available,52.99,52.99,low,low,9,namesilo,,,09/08/2026 10:59
 6f4438a8-8215-4eab-8a61-a9649dc53214,yellowcake.memorial,available,52.99,52.99,low,low,11,namesilo,,,
 0aaaffe8-a808-4e88-b556-7e01bacafea5,ecological.memorial,available,52.99,52.99,high,low,10,namesilo,,,
-b80280bf-97b5-4a97-8c32-1c670081481a,transportation.memorial,available,52.99,52.99,medium,low,14,namesilo,,,13/09/2026 03:39
+b80280bf-97b5-4a97-8c32-1c670081481a,transportation.memorial,available,52.99,52.99,low,low,14,namesilo,,,19/09/2026 03:16
 57e26c1d-bc7a-4810-8938-1d71334ad4e7,streetcleaner.memorial,available,64.98,,low,low,14,namecheap,,,
 62cf71e8-e473-4ba1-a68f-c5b0ab77f8a4,allotted.memorial,available,52.99,52.99,low,low,8,namesilo,,,
 ce797e94-96d4-4e6b-a80c-ee5aaf40b876,regurgitate.memorial,available,52.99,52.99,high,low,11,namesilo,,,
@@ -747,7 +745,7 @@ d093e00e-3cb7-4e3b-8868-0446687358ec,subscribe.memorial,available,52.99,52.99,hi
 f0d6c02e-f4d6-4e32-880e-c553d82e45de,aneurismal.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 8c31ccb5-2c78-4ffd-ae8e-deb2760cfbf8,lower.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 512c041a-683b-485e-8832-a960559e41c5,adlib.memorial,available,54.98,64.98,low,low,6,namecheap,,,
-60f8db5e-bd4a-4526-8856-475789cfbbfc,tooth.memorial,available,52.99,52.99,low,low,5,namesilo,,,15/09/2026 03:57
+60f8db5e-bd4a-4526-8856-475789cfbbfc,tooth.memorial,available,54.98,64.98,low,low,5,namecheap,,,19/09/2026 18:20
 98adea63-e400-4ff5-a4be-52afdc839ba2,daytime.memorial,available,64.98,,high,low,7,namecheap,,,
 beca31d5-edfd-4077-9271-f6ddc08ecc83,breathe.memorial,available,52.99,52.99,high,low,7,namesilo,,,
 6899407f-d676-4ea0-990a-a6f762ef1b0e,sensory.memorial,available,52.99,52.99,high,low,7,namesilo,,,
@@ -769,7 +767,7 @@ e9691083-0d10-4880-84cb-ce5c504a9170,premarital.memorial,available,64.98,,high,l
 905574d5-ac49-4439-b827-52b3f15242af,dishout.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 c52400d1-a046-4383-ae7d-d526e366c262,commons.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
 57fb79ab-2f81-4212-8a41-3449e0c2ed76,bestpractice.memorial,available,52.99,52.99,high,low,13,namesilo,,,
-afcdface-26e3-460a-a0b0-f92beca6dd49,Godlovesomeone.memorial,available,64.98,,medium,low,16,namecheap,,,
+afcdface-26e3-460a-a0b0-f92beca6dd49,godlovesomeone.memorial,available,64.98,,medium,low,16,namecheap,,,
 35d6f409-defc-4601-abbd-769bb673a59b,earlyadopter.memorial,available,52.99,52.99,high,low,13,namesilo,,,
 b810c689-d39a-4376-83e8-59fdf6d1b5e0,atthedouble.memorial,available,52.99,52.99,high,low,13,namesilo,,,
 9d7309f1-9f85-4525-84b9-65ad4322b790,drown.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
@@ -818,7 +816,7 @@ d938e0ab-a101-4b64-833d-59f62312c44c,theyre.memorial,available,52.99,52.99,mediu
 2483b7d4-a342-4e6f-b37a-30efb660abc3,really.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 802e5c2d-3d11-48ca-99c3-cceaeabf7eb6,crisp.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 7bfb6bf3-f0a1-4818-94de-72dc44a499d0,augean.memorial,available,52.99,52.99,low,low,6,namesilo,,,07/08/2026 16:54
-daf8388f-28ac-4a8c-9268-a625b62d6d5b,savings.memorial,available,52.99,52.99,high,low,7,namesilo,,,
+daf8388f-28ac-4a8c-9268-a625b62d6d5b,savings.memorial,available,54.98,64.98,medium,low,7,namecheap,,,19/09/2026 13:58
 4ef7953c-b3ca-45d1-8250-ddf310f68c3a,adjunctive.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 b60d2491-ee2f-46e8-b01f-9b2fb756db53,authorityfigure.memorial,available,64.98,,medium,low,16,namecheap,,,
 72c3b6b4-0160-425e-8d25-53e8863c0db4,info.memorial,premium,78.54,78.54,high,medium,4,namesilo,,,
@@ -843,7 +841,7 @@ cfe7644f-6ba9-46ee-a1c2-9f8fe237728b,far.memorial,available,52.99,52.99,high,low
 b3cac8af-7459-4e51-9c6b-2d09dc95f92c,pair.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
 19e6e65a-be8f-4914-9b2c-73454dbd97af,accident.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 14b4bf73-ae71-4411-8265-40bca8d72445,weave.memorial,available,64.98,,high,low,5,namecheap,,,
-0feb88c3-e8f6-46c2-8201-1e52be920166,investing.memorial,available,52.99,52.99,high,low,9,namesilo,,,
+0feb88c3-e8f6-46c2-8201-1e52be920166,investing.memorial,available,52.99,52.99,medium,low,9,namesilo,,,19/09/2026 07:46
 cc73c3af-71f5-4858-b6e8-f913b1de2fe4,simply.memorial,premium,118.8,118.8,medium,medium,6,namesilo,,,
 49d32d00-ce30-414d-81c0-b04508fc757a,quarterof.memorial,available,52.99,52.99,low,low,10,namesilo,,,
 4e31b9bf-8b08-40b4-9247-a544a61f7df9,destined.memorial,available,52.99,52.99,high,low,8,namesilo,,,
@@ -852,14 +850,14 @@ cc73c3af-71f5-4858-b6e8-f913b1de2fe4,simply.memorial,premium,118.8,118.8,medium,
 ba22c2f9-045a-41fe-93df-b56b03bd1373,watercooler.memorial,available,52.99,52.99,high,low,12,namesilo,,,
 ca5672c0-cbf2-474f-8234-35c0435862ef,slighting.memorial,available,52.99,52.99,low,low,9,namesilo,,,09/08/2026 13:15
 bdfe0150-af0e-479b-82a5-d6c9916c7ba6,lemon.memorial,available,52.99,52.99,medium,medium,5,namesilo,,,
-37ba1cda-047c-4281-a6e6-4c1dacba23a1,return.memorial,available,54.98,64.98,medium,low,6,namecheap,,,14/09/2026 18:50
+37ba1cda-047c-4281-a6e6-4c1dacba23a1,return.memorial,available,52.99,52.99,medium,low,6,namesilo,,,19/09/2026 03:27
 331450f3-0db7-424b-9063-76164c7028c3,barky.memorial,available,52.99,52.99,low,low,5,namesilo,,,08/08/2026 19:46
 b5e047a7-e269-4f3c-9066-4db369e29a7c,teammate.memorial,available,64.98,,high,low,8,namecheap,,,
 2854be6e-a095-4c3d-8c62-eff972f10ff0,actinoid.memorial,available,52.99,52.99,low,low,8,namesilo,,,
 1dcc336a-ebb5-4ec6-a9e1-636a51c28af1,surething.memorial,available,64.98,,high,low,10,namecheap,,,
 9b2c26ab-018d-464d-9cac-d8136d862d5d,affined.memorial,available,52.99,52.99,low,low,7,namesilo,,,
 59c0f3d3-996e-4841-b4b6-fe92c3238627,highdefinition.memorial,available,52.99,52.99,high,low,15,namesilo,,,
-8176fd74-b8ee-48f4-962a-8e7bca4126d7,engineering.memorial,available,52.99,52.99,medium,low,11,namesilo,,,08/09/2026 14:58
+8176fd74-b8ee-48f4-962a-8e7bca4126d7,engineering.memorial,available,54.98,64.98,medium,low,11,namecheap,,,19/09/2026 11:00
 671a7b53-e044-4b92-bde6-0ea6352e4d44,poor.memorial,available,52.99,52.99,medium,low,4,namesilo,,,
 3fbdab38-42e8-408e-9971-ad8e33ddb14d,accept.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 acafcb7e-b073-4ae1-95c9-b0561efd9606,moneyed.memorial,available,52.99,52.99,low,low,7,namesilo,,,
@@ -911,7 +909,7 @@ b9ded1d6-79c2-465f-8276-b0eaf889cb5e,insulting.memorial,available,52.99,52.99,hi
 3f76b2ca-eb10-4890-971b-88a9231eaf60,momentum.memorial,available,52.99,52.99,high,medium,8,namesilo,,,
 ea042037-a022-4e50-b99d-4ac305c4c395,ethnic.memorial,available,64.98,,high,low,6,namecheap,,,
 28aba649-4d1a-49c8-951f-2579821454b2,hardatit.memorial,available,52.99,52.99,high,low,10,namesilo,,,
-525bb398-235f-4192-a85c-6c36f91cd22e,SouthKorea.memorial,available,52.99,52.99,low,low,11,namesilo,,,
+525bb398-235f-4192-a85c-6c36f91cd22e,southkorea.memorial,available,52.99,52.99,low,low,11,namesilo,,,
 6d736986-0903-4852-8bd8-06131448df39,disney.memorial,available,,,high,low,6,,,,
 5b905c34-3722-47a4-84b2-58a965cd674a,inthegreen.memorial,available,52.99,52.99,medium,low,12,namesilo,,,
 ae7b98a6-b2b0-4ff6-bb58-6e6b25ffce17,aboulic.memorial,available,52.99,52.99,low,low,7,namesilo,,,
@@ -923,7 +921,7 @@ b03eb8eb-8e9c-42dd-b1df-62f1cf2dd24f,ternion.memorial,available,52.99,52.99,low,
 eda8f085-21a6-416e-8584-7c683cc4469b,barren.memorial,available,52.99,52.99,low,low,6,namesilo,,,08/08/2026 20:57
 af2b7080-e07b-43cf-83d0-7e575cb88578,astomatal.memorial,available,52.99,52.99,low,low,9,namesilo,,,07/08/2026 09:41
 c038d111-4db1-484d-9973-5e26b54011aa,timely.memorial,available,52.99,52.99,low,low,6,namesilo,,,06/08/2026 10:08
-ec43c484-881a-4c5a-a4d0-b86b03dd7ff4,noone.memorial,available,52.99,52.99,high,low,6,namesilo,,,
+ec43c484-881a-4c5a-a4d0-b86b03dd7ff4,noone.memorial,available,52.99,52.99,low,low,6,namesilo,,,20/09/2026 00:54
 7c08dc1a-95b9-4230-93c2-d5b4a42b1fa9,veggiedog.memorial,available,52.99,52.99,high,low,10,namesilo,,,
 2783a8d1-94e3-4c12-869f-e259db62a951,inherent.memorial,available,52.99,52.99,medium,low,8,namesilo,,,
 33046ff0-3266-41f8-b7c5-66d30f128d15,fiercely.memorial,available,64.98,,medium,low,8,namecheap,,,
@@ -931,7 +929,7 @@ ec43c484-881a-4c5a-a4d0-b86b03dd7ff4,noone.memorial,available,52.99,52.99,high,l
 16c1412b-beb3-4287-8c17-1628d57600b5,blurred.memorial,available,52.99,52.99,medium,low,7,namesilo,,,
 f7f8f2dc-edbb-443f-9ea4-5aeea18c2cff,pleasing.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 7b695a7b-2932-4291-bbc6-c5b074757979,givecredit.memorial,available,52.99,52.99,high,low,11,namesilo,,,
-43e7df79-4a3f-4533-b931-be1dddc21dd1,WestCoast.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
+43e7df79-4a3f-4533-b931-be1dddc21dd1,westcoast.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 2bc00e7e-04b6-4227-b7f8-26db1eedecfc,autumn.memorial,available,52.99,52.99,medium,low,6,namesilo,,,
 45636965-1d44-43cf-93d4-b940f20a6512,woods.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 3ea903fd-3ca4-442b-a1dc-69ca9bd96069,asserted.memorial,available,52.99,52.99,low,low,8,namesilo,,,07/08/2026 05:54
@@ -944,7 +942,7 @@ d4c2f1b4-75aa-46d8-9921-1c39c413d420,ammonitic.memorial,available,52.99,52.99,lo
 79686bb8-2b13-4f35-a1bd-0f3434ae2800,revealing.memorial,available,64.98,,high,low,9,namecheap,,,
 de840d9f-1f94-4292-9c88-998fbb2f4f37,violation.memorial,available,52.99,52.99,medium,low,9,namesilo,,,
 acd54d08-a856-49a3-9bec-7a9e795b1d8c,abasic.memorial,available,52.99,52.99,low,low,6,namesilo,,,
-d2ebf00e-83be-4d82-b8b4-73c1f1751659,company.memorial,premium,118.8,118.8,high,low,7,namesilo,,,
+d2ebf00e-83be-4d82-b8b4-73c1f1751659,company.memorial,premium,118.8,118.8,medium,low,7,namesilo,,,19/09/2026 10:25
 0c7235ff-354c-41c5-879e-1395245ad46e,everybody.memorial,available,52.99,52.99,medium,low,10,namesilo,,,
 41805b43-33d9-4d4e-bcc8-f5d34bab8229,lxxi.memorial,available,52.99,52.99,low,low,4,namesilo,,,
 6841c8fa-6a44-4abf-a59e-ab7f406bd42d,antipodal.memorial,available,52.99,52.99,low,low,9,namesilo,,,
@@ -959,7 +957,7 @@ d5f845de-e6e9-40ee-8eb1-812b00198525,tohellwith.memorial,available,52.99,52.99,l
 71c42816-e0c8-4c69-8326-1af2c4e572f2,amnesic.memorial,available,52.99,52.99,low,low,7,namesilo,,,
 ef83ee66-9fec-40d3-80e8-f84f88e57541,defend.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 08aba750-5f6a-44b8-97d8-f92a8224bfdf,anglican.memorial,available,52.99,52.99,low,low,8,namesilo,,,
-9f5ef763-0cca-4458-b297-850b05aeba0e,FrenchQuarter.memorial,available,64.98,,medium,low,14,namecheap,,,
+9f5ef763-0cca-4458-b297-850b05aeba0e,frenchquarter.memorial,available,64.98,,medium,low,14,namecheap,,,
 3438b5ce-a173-4408-a7be-b6028710d62e,archaic.memorial,available,52.99,52.99,low,low,7,namesilo,,,
 054c5163-1487-42bb-bd3e-a57dcb9b5e30,togetherwith.memorial,available,52.99,52.99,low,low,13,namesilo,,,
 db987b6c-8999-4367-8f8f-1ff2d59364d3,candidacy.memorial,available,52.99,52.99,high,low,9,namesilo,,,
@@ -984,7 +982,7 @@ a50b4f3e-8551-4564-ba51-803688f99387,balmy.memorial,available,64.98,,high,low,5,
 916025c3-14f6-4584-b40a-991728a933a9,aflame.memorial,available,52.99,52.99,low,low,6,namesilo,,,
 7293e3ec-a9c9-4af7-878c-0705c2693e8d,tardy.memorial,available,52.99,52.99,low,low,5,namesilo,,,09/08/2026 12:42
 62ae3c61-91d7-48bc-8b86-cdfed8ac158b,roundabout.memorial,available,52.99,52.99,low,low,11,namesilo,,,12/08/2026 08:20
-ff04213d-318d-4398-8d47-4662e3fd8c09,Nicki.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
+ff04213d-318d-4398-8d47-4662e3fd8c09,nicki.memorial,available,52.99,52.99,medium,low,5,namesilo,,,
 779cdad8-432b-44f3-a30a-9aa1bd9e7949,available.memorial,available,52.99,52.99,high,low,9,namesilo,,,
 20a9fe1a-4192-4b0b-8bdf-439d744e62cf,law.memorial,premium,128.7,128.7,high,medium,3,namecheap,,,
 96040c63-6618-41d1-bda4-5a66168751ae,apodictic.memorial,available,52.99,52.99,low,low,9,namesilo,,,06/08/2026 01:27
@@ -997,5 +995,7 @@ e6a524f8-975e-4c06-ae62-8985ea1f7f54,happybirthday.memorial,available,52.99,52.9
 5ecac24b-71c7-4830-822f-fd09f304d33a,gaming.memorial,available,52.99,52.99,high,low,6,namesilo,,,
 e2a04677-1398-4813-9b0d-2f68500ad76b,sevenup.memorial,available,52.99,52.99,high,low,8,namesilo,,,
 4acab922-cc00-4148-9116-6c1098a89bd5,whatthe.memorial,available,52.99,52.99,low,low,8,namesilo,,,
-a9b91af5-0fd4-4086-943f-451ec6534c4c,LettersandScience.memorial,available,52.99,52.99,high,low,19,namesilo,,,
+a9b91af5-0fd4-4086-943f-451ec6534c4c,lettersandscience.memorial,available,52.99,52.99,high,low,19,namesilo,,,
 04f51f4c-bdaa-465e-9b3f-b44aa691a3a1,terminating.memorial,available,52.99,52.99,low,low,11,namesilo,,,08/09/2026 14:51
+6675f2d6-2a1c-459d-816d-c1f0ba21139a,granddad.memorial,available,64.98,,high,low,8,namecheap,,,
+2d0a4572-7994-4d96-a38e-dbfd34f71da4,befuddled.memorial,available,52.99,52.99,low,low,9,namesilo,,,07/08/2026 11:41
