@@ -1,10 +1,10 @@
-# Available .MEMORIAL One-Word Domains (25,086)
+# Available .MEMORIAL One-Word Domains (27,142)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C086%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C142%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .memorial one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,086 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,142 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,086 domains · **Median ask:** $54.51 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 27,142 domains · **Median ask:** $53.62 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/memorial`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| acc.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| car.memorial   | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
-| aec.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| cry.memorial   | premium   | $123.75   | —             | high           | low    | 3      | name.com  |
-| and.memorial   | available | $52.99    | $52.99        | high           | medium | 3      | namesilo  |
-| jam.memorial   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| apr.memorial   | available | $54.98    | $64.98        | high           | low    | 3      | namecheap |
-| usa.memorial   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo  |
-| aus.memorial   | available | $41.60    | $41.60        | high           | low    | 3      | spaceship |
-| use.memorial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
-| awn.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| hemp.memorial  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| bap.memorial   | available | $54.98    | $64.98        | high           | low    | 3      | namecheap |
-| oslo.memorial  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo  |
-| cpu.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| west.memorial  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
-| cva.memorial   | available | $54.98    | $64.98        | medium         | low    | 3      | namecheap |
-| work.memorial  | premium   | $68.51    | $68.51        | high           | medium | 4      | spaceship |
-| cxx.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo  |
-| black.memorial | premium   | $260      | $260          | high           | medium | 5      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| abi.memorial   | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare |
+| car.memorial   | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship  |
+| acc.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| cry.memorial   | premium   | $123.75   | —             | high           | low    | 3      | name.com   |
+| aec.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| jam.memorial   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo   |
+| and.memorial   | available | $52.99    | $52.99        | high           | medium | 3      | namesilo   |
+| usa.memorial   | premium   | $72.60    | $72.60        | high           | medium | 3      | dynadot    |
+| aus.memorial   | available | $41.60    | $41.60        | high           | low    | 3      | spaceship  |
+| use.memorial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo   |
+| awn.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| oslo.memorial  | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo   |
+| bao.memorial   | available | $41.60    | $41.60        | medium         | low    | 3      | spaceship  |
+| west.memorial  | premium   | $102.67   | $102.67       | high           | low    | 4      | spaceship  |
+| bap.memorial   | available | $54.98    | $64.98        | high           | low    | 3      | namecheap  |
+| work.memorial  | premium   | $68.51    | $68.51        | high           | medium | 4      | spaceship  |
+| chr.memorial   | available | $52.99    | $52.99        | medium         | low    | 3      | namesilo   |
+| black.memorial | premium   | $260      | $260          | high           | medium | 5      | namecheap  |
+| cpu.memorial   | available | $52.99    | $52.99        | high           | low    | 3      | namesilo   |
+| civic.memorial | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,086 live domains                        |
+| 1,000-row public sample | 27,142 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MEMORIAL One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
